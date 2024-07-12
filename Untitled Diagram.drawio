@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-12T09:09:52.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="D2mp-lOV2rFhIxwZgkii" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-12T09:27:28.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="feoFj7EMv9ZoZuBoqXyc" version="24.6.5" type="github">
   <diagram name="Page-1" id="foA03Sj28Lwy8-XEo3pu">
     <mxGraphModel dx="653" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9tdhreLtDoJ9jHINZUDc-37" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;ウェブページの内容に関する提案&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;現状、アクセス数は１年に350程である。二年以上の更新も無く、存在する意義が曖昧。&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;→学連の紹介とその他SNSとの連携に絞るor従来と同様に記事欄を設け、UIを刷新する。&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="520" width="340" height="120" as="geometry" />
+          <mxGeometry x="60" y="480" width="340" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
